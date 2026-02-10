@@ -1,29 +1,52 @@
-# 🧑🏾‍💻 Airosa Pedro 
-Desenvolvedor FullStack em Evolução Contínua
+# 🧑🏾‍💻 Airosa Pedro
 
-Olá! Sou o Airosa Pedro, tenho 18 anos e sou natural de Uíge, Angola. Sou formado como Técnico de Informática e encaro o desenvolvimento FullStack não apenas como carreira, mas como um compromisso vitalício de aprendizado e melhoria constante.
+**`Desenvolvedor FullStack em Evolução Contínua`**
 
-Sou um entusiasta da tecnologia focado em construir aplicações eficientes, unindo o Back-end ao Front-end. Meu lema é: se hoje eu faço algo, amanhã eu melhoro.
+Olá! Sou o **Airosa Pedro**, tenho 18 anos e sou natural de Uíge, Angola. Sou formado como Técnico de Informática e encaro o desenvolvimento FullStack como um compromisso vitalício. 
 
-<p align="left"> <a href="https://www.linkedin.com/in/airosapedro"> <img alt="LinkedIn" title="Conecte-se no LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="http://www.youtube.com/@AiroScript"> <img alt="YouTube" title="Canal YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /> </a> <a href="https://github.com/AiroScript95?tab=followers"> <img alt="Seguidores" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/AiroScript95?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" /> </a> </p>
+Meu lema é: se hoje eu faço algo, amanhã eu melhoro. O aprendizado é constante, sem prazos de validade.
 
-🚀 Foco e Evolução
-🔄 Aprendizado Frequente: Estudo constante de ecossistemas Web (Node.js, PHP, React, JS).
+<p align="left">
+    <a href="https://www.linkedin.com/in/airosapedro">
+        <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="http://www.youtube.com/@AiroScript">
+        <img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+    </a>
+  <a href="https://github.com/AiroScript95?tab=followers">
+    <img alt="Seguidores" src="https://custom-icon-badges.demolab.com/github/followers/AiroScript95?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" />
+</a>
 
-📱 Desenvolvimento Independente: Criando o meu primeiro aplicativo autônomo.
+</p>
 
-🛠️ Mentalidade: Melhoria contínua — o que é feito em um mês é aperfeiçoado no próximo.
+---
 
-🤖 Linguagens e Tecnologias
-⚡ Atualmente em Uso/Foco
-<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> <img align="left" alt="Node.js" title="Node.js" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" /> <img align="left" alt="PHP" title="PHP" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" /> <img align="left" alt="React" title="React" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /> <img align="left" alt="HTML5" title="HTML5" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /> <img align="left" alt="SQL" title="SQL" width="30px" style="padding-right: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" /> <img align="left" alt="MongoDB" title="MongoDB" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" /> <img align="left" alt="JSON" title="JSON" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" />
+### 🚀 Foco e Evolução
+* 🔄 **Aprendizado Frequente:** Node.js, PHP, React e ecossistema Web.
+* 📱 **Desenvolvimento Independente:** Criando meu primeiro app multiplataforma.
+* 🛠️ **Mentalidade:** O que é feito em um mês é aperfeiçoado no próximo.
 
-⏳ Em Desenvolvimento / Aprendizado
-<img align="left" alt="Kotlin" title="Kotlin" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" /> <img align="left" alt="C++" title="C++" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" /> <img align="left" alt="C#" title="C#" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+### 🤖 Stack de Tecnologias
 
-📊 Estatísticas
-<p> <img align="left" alt="GitHub Stats" height="200" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=AiroScript95&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+#### ⚡ No meu dia a dia (Web & Mobile)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<img align="left" alt="Top Langs" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AiroScript95&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
+#### ⏳ Em Desenvolvimento / Aperfeiçoamento
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
+---
+
+### 📊 Minha Constância (Frequência de Código)
+<p align="left">
+  <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=AiroScript95&theme=tokyonight" alt="Série de contribuições" />
 </p>
