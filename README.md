@@ -1,5 +1,4 @@
-# 🧑🏾‍💻 Airosa Pedro
-**`Desenvolvedor Web | Rumo ao Full-Stack`**
+# AiroScript95
 
 Olá! Sou o **Airosa Pedro**, natural de Uíge, Angola. Técnico de Informática de formação e desenvolvedor por escolha.
 
@@ -14,45 +13,29 @@ Não sigo um plano rígido — quando uma ideia aparece, eu construo. Quando ter
   </a>
 </p>
 
----
-
 ## 🎬 Projetos em destaque
 
 | Projeto | Descrição | Stack |
 |---|---|---|
+| [AniHD](https://github.com/AiroScript95/Kitsune-Player) | Leitor de musica desktop com sincronização de letras feito  | C#, dotnet 8, Wpf|
 | [AniHD](https://github.com/AiroScript95/anihd-app) | App desktop para gerir e streamar coleções locais de anime em rede local | Electron, Node.js, Express, FFmpeg, Sharp |
 | [PautaPrimaria](https://github.com/AiroScript95/PautaPrimaria) | Sistema de gestão de mini pautas para o ensino primário | PHP, MySQL |
-
----
 
 ## 🛠️ Stack
 
 **Uso no dia a dia**
 
-![Skills](https://skillicons.dev/icons?i=js,nodejs,php,html,css,mysql,git,npm,express,json)
+![Skills](https://skillicons.dev/icons?i=js,nodejs,php,html,css,mysql,git,npm,express,cs,figma&theme=light)
 
 **Aprendendo agora**
 
 ![Skills](https://skillicons.dev/icons?i=electron,nginx,ts)
 
-**Já aprendi, sem ambiente ativo no momento**
-
-![Skills](https://skillicons.dev/icons?i=cs,cpp,godot)
-
-> Também tenho noções de redes de computadores.
-
-> Trabalhei com C# no WPF (.NET 4.4 e .NET 8) e C++, mas o ambiente atual não suporta rodar essas IDEs.
-
----
-
 ## 📊 Constância
-
 <p align="left">
   <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=AiroScript95&theme=tokyonight" alt="Série de contribuições" />
 </p>
 
----
-
 ## 📫 Contato
 
-- [LinkedIn](https://www.linkedin.com/in/airosapedro)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/airoscript95/) [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/airosapedro)
